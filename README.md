@@ -7,4 +7,4 @@ I have presented this project as an open source so that its problems can be fixe
 
 Development language: C#
 Thank you.
-Mojtaba Golnouri (glnouri@gmail.com)
+Mojtaba Golnouri (golnouri@gmail.com)
